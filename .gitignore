@@ -1,0 +1,7 @@
+# Project exclude paths
+/Amazon/target/
+/CNN/target/
+/Facebook/target/
+/Generic/target/
+/out/
+/RestAPI/target/

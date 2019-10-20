@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="RestAPI" />
+        <module name="Amazon" />
+        <module name="Facebook" />
+        <module name="Generic" />
+        <module name="CNN" />
+        <module name="Netflix" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CitiBank" target="1.8" />
+      <module name="Netflix" target="1.8" />
+      <module name="UnitedHealthCare" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
